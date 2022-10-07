@@ -2,3 +2,4 @@ git clone
 git remote add origin https://github.com/franck-tchassi/git-begins.git
 git branch -M main
 git push -u origin main
+git pull origin main
